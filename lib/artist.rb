@@ -45,4 +45,3 @@ super
   #  name.downcase.gsub(' ', '-')
 #  end
 
-end
